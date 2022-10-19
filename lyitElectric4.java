@@ -29,7 +29,7 @@ public class lyitElectric4
       double net;
       
       {
-         System.out.println("What type of customer are you? Residential (R) or Business(B)");
+         System.out.println("Welcome to LYIT Electric! What type of customer are you? Residential (R) or Business(B)");
          // store the next character typed as a variable
          customerType = keyboardIn.next().charAt(0);
          // if statement for customer type
